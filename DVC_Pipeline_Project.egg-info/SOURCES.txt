@@ -1,0 +1,8 @@
+README.md
+setup.py
+DVC_Pipeline_Project.egg-info/PKG-INFO
+DVC_Pipeline_Project.egg-info/SOURCES.txt
+DVC_Pipeline_Project.egg-info/dependency_links.txt
+DVC_Pipeline_Project.egg-info/requires.txt
+DVC_Pipeline_Project.egg-info/top_level.txt
+src/__init__.py
